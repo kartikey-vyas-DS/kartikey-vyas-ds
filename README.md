@@ -1,27 +1,31 @@
-### Hi there 👋
+### Hiya World  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  alt="Side Image" align ="right" width="500">
+<br><br>
+ :book: About Me
+
+- Hello, I'm Kartikey Vyas, a dynamic individual with a background in civil engineering and a fervent passion for data science and machine learning. Over the past 5.5 years, I've immersed myself in the world of civil engineering, gaining invaluable experience in managing a consultancy specializing in road and building construction estimation and for a road construction company. My work involved liaising with multiple government bodies in Gujarat, India, facilitating the paperwork necessary for road construction projects.
+- Btech Civil Engineering from [Pandit deendayal Petroleum university](https://www.pdpu.ac.in/)
+
+- Beyond the realm of engineering, I've explored entrepreneurship, venturing into the import-export business of Bleaching Powder to Bangladesh. Additionally, I've dabbled in the production of FMCG toiletry products in Jamnagar, Gujarat, and ventured into the supply of branded spices to Bangladesh. These ventures have not only broadened my horizons but have also instilled in me a keen sense of business acumen and the drive to seek out new investment opportunities.
+
+- Exploring Financial Markets
+My curiosity extends beyond traditional engineering and into the dynamic realm of the stock market. Having experienced the exhilarating highs and challenging lows of the beginner's cycle, I've developed a knack for transforming trading strategies into robust algorithms to identify lucrative investment opportunities. This journey has equipped me with invaluable insights into market dynamics and the intricacies of algorithmic trading.
+
+- Driven by a deep-seated fascination for data-driven insights and predictive analytics, I've transitioned my career path to delve into the captivating world of data science and machine learning. My journey has led me to embark on a quest for knowledge through esteemed platforms such as
+-  [Scaler (InterviewBit Technologies Private Limited)](https://www.scaler.com/data-science-course/),
+-  [123 of AI [Alpha ML]](https://www.123ofai.com/), and
+-  [Trainity](https://trainity.in/), where I'm engaged in diverse projects spanning data analytics and visualization.
+
+- Let's Connect!
+I'm passionate about leveraging data-driven solutions to tackle real-world challenges and drive meaningful outcomes. If you share a similar enthusiasm for data science, machine learning, or entrepreneurship, I'd love to connect and explore collaborative opportunities. Together, let's embark on this exciting journey of innovation and discovery!
+## skills
+
+
+
+## 📫 How to Reach Me:
+[<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Kartikey on LinkedIn" title="Follow Kartikey on LinkedIn"/>](https://www.linkedin.com/in/kartikey-vyas-2a29b9273) &nbsp; <a href="mailto:kvsvyas@gmail.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
+
 
 <!--
 **Richkart700/Richkart700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
-<br><br>
-## About me 
-
-A seasoned civil engineer with 5.5 years of experience, I'm embarking on an exciting journey into the realm of data science and machine learning. My professional background includes managing a consultancy specializing in road and building construction estimation, serving various government bodies in Gujarat, India.
-
-In addition to my engineering ventures, I've delved into entrepreneurship, overseeing the import-export business of Bleaching Powder to Bangladesh, as well as FMCG toiletry products production in Jamnagar, Gujarat. Not one to shy away from opportunities, I've also ventured into supplying branded spices to Bangladesh.
-
-Driven by a fascination for generating investment opportunities, I've immersed myself in the world of the stock market. Through the highs and lows of the beginner's cycle, I've honed my skills in transforming strategies into algorithms to identify lucrative trading and investment prospects.
-
-I'm currently on an enriching learning journey, aspiring to master data science and machine learning through reputable platforms like Scaler (InterviewBit Technologies Private Limited), 123 of AI [Alpha ML], and Trainity, where I'm engaged in diverse projects spanning data analytics and visualization.
-
-Let's connect and embark on this journey together!
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ... Python and probabilities!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... kvsvyas@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
 -->
