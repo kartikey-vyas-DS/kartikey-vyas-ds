@@ -18,9 +18,6 @@ My curiosity extends beyond traditional engineering and into the dynamic realm o
 
 - Let's Connect!
 I'm passionate about leveraging data-driven solutions to tackle real-world challenges and drive meaningful outcomes. If you share a similar enthusiasm for data science, machine learning, or entrepreneurship, I'd love to connect and explore collaborative opportunities. Together, let's embark on this exciting journey of innovation and discovery!
-## skills
-
-
 
 ## 📫 How to Reach Me:
 [<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Kartikey on LinkedIn" title="Follow Kartikey on LinkedIn"/>](https://www.linkedin.com/in/kartikey-vyas-2a29b9273) &nbsp; <a href="mailto:kvsvyas@gmail.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
