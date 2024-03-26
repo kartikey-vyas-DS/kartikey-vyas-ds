@@ -3,7 +3,7 @@
 <br><br>
  :book: About Me
 
-- Hello, I'm Kartikey Vyas, a dynamic individual with a background in civil engineering and a fervent passion for data science and machine learning. Over the past 5.5 years, I've immersed myself in the world of civil engineering, gaining invaluable experience in managing a consultancy specializing in road and building construction estimation and for a road construction company. My work involved liaising with multiple government bodies in Gujarat, India, facilitating the paperwork necessary for road construction projects.
+- Hello, I'm Kartikey Vyas, i am an individual with a background in civil engineering and a intense passion for data science and machine learning. Over the past 5.5 years, I've immersed myself in the world of civil engineering, gaining invaluable experience in managing a consultancy specializing in road and building construction estimation and for a road construction company. My work involved liaising with multiple government bodies in Gujarat, India, facilitating the paperwork necessary for road construction projects.
 - Btech Civil Engineering from [Pandit deendayal Petroleum university](https://www.pdpu.ac.in/)
 
 - Beyond the realm of engineering, I've explored entrepreneurship, venturing into the import-export business of Bleaching Powder to Bangladesh. Additionally, I've dabbled in the production of FMCG toiletry products in Jamnagar, Gujarat, and ventured into the supply of branded spices to Bangladesh. These ventures have not only broadened my horizons but have also instilled in me a keen sense of business acumen and the drive to seek out new investment opportunities.
