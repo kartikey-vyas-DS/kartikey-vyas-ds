@@ -16,6 +16,18 @@ My curiosity extends beyond traditional engineering and into the dynamic realm o
 -  [123 of AI [Alpha ML]](https://www.123ofai.com/), and
 -  [Trainity](https://trainity.in/), where I'm engaged in diverse projects spanning data analytics and visualization.
 
+
+- Programming Languages
+
+|<img title="Python" alt="Python" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/c72a1854-a97f-40df-bdd1-b1a28e8bc5e9" />
+
+- Databases
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+
+ - Tools 
+ <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+ 
 - Let's Connect!
 I'm passionate about leveraging data-driven solutions to tackle real-world challenges and drive meaningful outcomes. If you share a similar enthusiasm for data science, machine learning, or entrepreneurship, I'd love to connect and explore collaborative opportunities. Together, let's embark on this exciting journey of innovation and discovery!
 
