@@ -1,40 +1,68 @@
-### Hiya World  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  alt="Side Image" align ="right" width="500">
-<br><br>
- :book: About Me
+# 👋 Hiya, World! I'm Kartikey Vyas
 
-- Hello, I'm Kartikey Vyas, i am an individual with a background in civil engineering and a intense passion for data science and machine learning. Over the past 5.5 years, I've immersed myself in the world of civil engineering, gaining invaluable experience in managing a consultancy specializing in road and building construction estimation and for a road construction company. My work involved liaising with multiple government bodies in Gujarat, India, facilitating the paperwork necessary for road construction projects.
-- Btech Civil Engineering from [Pandit deendayal Petroleum university](https://www.pdpu.ac.in/)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- Beyond the realm of engineering, I've explored entrepreneurship, venturing into the import-export business of Bleaching Powder to Bangladesh. Additionally, I've dabbled in the production of FMCG toiletry products in Jamnagar, Gujarat, and ventured into the supply of branded spices to Bangladesh. These ventures have not only broadened my horizons but have also instilled in me a keen sense of business acumen and the drive to seek out new investment opportunities.
+## 🚀 About Me
 
-- Exploring Financial Markets
-My curiosity extends beyond traditional engineering and into the dynamic realm of the stock market. Having experienced the exhilarating highs and challenging lows of the beginner's cycle, I've developed a knack for transforming trading strategies into robust algorithms to identify lucrative investment opportunities. This journey has equipped me with invaluable insights into market dynamics and the intricacies of algorithmic trading.
+I'm a Civil Engineer turned Data Science enthusiast with a passion for uncovering insights from data. My journey has taken me from managing road construction projects to exploring the exciting world of data analytics and machine learning.
 
-- Driven by a deep-seated fascination for data-driven insights and predictive analytics, I've transitioned my career path to delve into the captivating world of data science and machine learning. My journey has led me to embark on a quest for knowledge through esteemed platforms such as
--  [Scaler (InterviewBit Technologies Private Limited)](https://www.scaler.com/data-science-course/),
--  [123 of AI [Alpha ML]](https://www.123ofai.com/), and
--  [Trainity](https://trainity.in/), where I'm engaged in diverse projects spanning data analytics and visualization.
+- 🎓 B.Tech in Civil Engineering from [Pandit Deendayal Petroleum University](https://www.pdpu.ac.in/)
+- 💼 5.5 years of experience in civil engineering and project management
+- 🌐 Entrepreneur in import-export and FMCG sectors
+- 📊 Aspiring Data Scientist with a keen interest in financial markets and algorithmic trading
 
+## 🛠️ Skills & Tools
 
-- Programming Languages
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img title="Python" alt="Python" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/c72a1854-a97f-40df-bdd1-b1a28e8bc5e9" />
+### Web Development (Beginner)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- Databases
+### Tools & Libraries
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+## 💼 Experience
 
- - Tools
+### Data Analyst | Vertichem Resources and Export
+*Import-Export Trading Company*
 
- <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">  <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">  <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
- 
-- Let's Connect!
-I'm passionate about leveraging data-driven solutions to tackle real-world challenges and drive meaningful outcomes. If you share a similar enthusiasm for data science, machine learning, or entrepreneurship, I'd love to connect and explore collaborative opportunities. Together, let's embark on this exciting journey of innovation and discovery!
+- Developed Python-based analytics tools to process multi-source trade data, expanding our global network by 25%.
+- develeoped of interactive Tableau dashboards visualizing real-time global trade flows, empowering executives to make data-driven decisions and boosting revenue by 25% within six months.
+- Conducted in-depth analysis of historical transaction data and market trends, optimizing pricing strategies and supplier selection, which led to a 15% improvement in profit margins and strengthened long-term business relationships.
 
-## 📫 How to Reach Me:
-[<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Kartikey on LinkedIn" title="Follow Kartikey on LinkedIn"/>](https://www.linkedin.com/in/kartikey-vyas-2a29b9273) &nbsp; <a href="mailto:kvsvyas@gmail.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
+## 🌱 Current Learning Journey
 
+I'm currently enhancing my skills through:
+
+- [Scaler (InterviewBit Technologies)](https://www.scaler.com/data-science-course/)
+- [123 of AI [Alpha ML]](https://www.123ofai.com/)
+- [Trainity](https://trainity.in/)
+
+## 🚀 Projects
+
+- Coming soon! Exciting data science projects in the pipeline.
+
+## 📫 Let's Connect!
+
+I'm always eager to collaborate on data-driven projects and discuss innovative ideas. Reach out to me through:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-vyas-2a29b9273)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kvsvyas@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **Richkart700/Richkart700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
