@@ -10,7 +10,7 @@ I'm a Civil Engineer turned Data Science enthusiast with a passion for uncoverin
 
 - 🎓 B.Tech in Civil Engineering from [Pandit Deendayal Petroleum University](https://www.pdpu.ac.in/)
 - 💼 5.5 years of experience in civil engineering and project management
-- 🌐 Entrepreneur in import-export and FMCG sectors
+- 🌐 Entrepreneur in consultancy business
 - 📊 Aspiring Data Scientist with a keen interest in financial markets and algorithmic trading
 
 ## 🛠️ Skills & Tools
