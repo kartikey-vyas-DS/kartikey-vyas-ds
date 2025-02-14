@@ -41,7 +41,6 @@ Results-driven Business & Data Analyst with over 6 years of experience across In
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikey-vyas-2a29b9273)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kvsvyas@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-green?style=flat-square&logo=phone&logoColor=white)](tel:+918140026442)
 
 ---
 
